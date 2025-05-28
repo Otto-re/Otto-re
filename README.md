@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-![Otto's GitHub stats](https://github-readme-stats.vercel.app/api?username=dein-username&show_icons=true&theme=radical)
+![Otto's GitHub stats](https://github-readme-stats.vercel.app/api?username=otto-re&show_icons=true&theme=radical)
 
 ---
 
