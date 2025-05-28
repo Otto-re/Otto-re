@@ -5,7 +5,7 @@
 - 🚀 Currently focused on Python, Selenium, Test Design, and CI/CD
 - 🎯 My goal: Building reliable and scalable test automation solutions
 - ❤️ Things I enjoy: tech, learning, solving problems, and sharing knowledge
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dein-link-hier)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/otto-reifschneider)
 
 ---
 
