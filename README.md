@@ -1,23 +1,25 @@
-## Hi there, I'm Otto! 👋
+## Hi there, I'm Otto 👋
 
-- 🧪 Working in QA Engineering / Test Automation
-- 💻 Programming enthusiast since 2024
-- 🚀 Currently focused on Python, Selenium, Test Design, and CI/CD
-- 🎯 My goal: Building reliable and scalable test automation solutions
-- ❤️ Things I enjoy: tech, learning, solving problems, and sharing knowledge
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/otto-reifschneider)
+🔹 QA Engineer (Test Automation)  
+🔹 Selenium, PyTest, Page Object Model  
+🔹 CI with GitHub Actions  
+🔹 ISTQB CTFL & PSM I certified
+
+Focus: Building reliable and maintainable UI test automation solutions.
 
 ---
 
-## 🔧 Pinned Projects
+## 🧰 Projekte
 
-### 🚀 [MindQuest Game](https://github.com/dein-repo/mindquest)
-> WhatsApp-basiertes Rätselspiel mit OpenAI & Twilio API  
-> 🔹 Python · Flask · JSON · CI via GitHub Actions
+### 🧩 MindQuest Game  
+WhatsApp-basiertes Rätselspiel mit OpenAI & Twilio API  
+**Tech:** Python · Flask · JSON · GitHub Actions  
+🔗 https://github.com/otto-re/mindquest
 
-### 🧪 [OrangeHRM Test Automation](https://github.com/dein-repo/orangehrm-tests)
-> Automatisierte UI-Tests mit Selenium  
-> 🔹 Python · PyTest · Page Object Model · Docker
+### ✅ OrangeHRM Test Automation  
+Automatisierte UI-Tests mit Selenium  
+**Tech:** Python · PyTest · Page Object Model · Docker  
+🔗 https://github.com/otto-re/orangehrm-tests
 
 ---
 
@@ -27,4 +29,4 @@
 
 ---
 
-*Let's build something amazing together!*
+*Let’s build reliable software.*
