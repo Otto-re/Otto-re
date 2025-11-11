@@ -11,15 +11,16 @@ Focus: Building reliable and maintainable UI test automation solutions.
 
 ## 🧰 Projekte
 
+### 🧪 Selenium UI Test Automation (PyTest)  
+UI-Testautomatisierung mit Selenium und PyTest  
+Struktur über Page Object Model, klar getrennte Testlogik und Selektoren  
+**Tech:** Python · Selenium · PyTest · Page Object Model  
+🔗 https://github.com/otto-re/selenium_pytest_projekt
+
 ### 🧩 MindQuest Game  
 WhatsApp-basiertes Rätselspiel mit OpenAI & Twilio API  
 **Tech:** Python · Flask · JSON · GitHub Actions  
 🔗 https://github.com/otto-re/mindquest
-
-### ✅ OrangeHRM Test Automation  
-Automatisierte UI-Tests mit Selenium  
-**Tech:** Python · PyTest · Page Object Model · Docker  
-🔗 https://github.com/otto-re/orangehrm-tests
 
 ---
 
