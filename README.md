@@ -1,33 +1,28 @@
-## Hi there, I'm Otto 👋
+# Hallo, ich bin Otto
 
-🔹 QA Engineer (Test Automation)  
-🔹 Selenium, PyTest, Page Object Model  
-🔹 CI with GitHub Actions  
-🔹 ISTQB CTFL & PSM I certified
+**QA Engineer · Testautomatisierung mit Playwright und Java**
 
-Focus: Building reliable and maintainable UI test automation solutions.
+Ich entwickle und pflege automatisierte UI- und Regressionstests für Webanwendungen. Dazu gehören der Entwurf von Testfällen, die Analyse fehlgeschlagener Testläufe und die Anpassung bestehender Tests bei Änderungen an der Anwendung.
 
----
+## Erfahrung und Werkzeuge
 
-## 🧰 Projekte
+- **Im Arbeitsalltag:** Playwright, Java, Jenkins, Git und Jira
+- **Aus der Weiterbildung und eigenen Projekten:** Python, Selenium, pytest, API-Testing und SQL
+- **Weitere Testpraxis:** TypeScript
+- **Praktisch erprobt:** Windows-Desktop-Automatisierung mit Appium und NovaWindows Driver
 
-### 🧪 Selenium UI Test Automation (PyTest)  
-UI-Testautomatisierung mit Selenium und PyTest  
-Struktur über Page Object Model, klar getrennte Testlogik und Selektoren  
-**Tech:** Python · Selenium · PyTest · Page Object Model  
-🔗 https://github.com/otto-re/selenium_pytest_projekt
+Aus früheren beruflichen Stationen bringe ich Erfahrung in der Analyse von Kundenanforderungen, der Prüfung von Daten und der nachvollziehbaren Dokumentation von Abläufen mit.
 
-### 🧩 MindQuest Game  
-WhatsApp-basiertes Rätselspiel mit OpenAI & Twilio API  
-**Tech:** Python · Flask · JSON · GitHub Actions  
-🔗 https://github.com/otto-re/mindquest
+## Öffentliches Praxisprojekt
 
----
+### GroceryMate · End-to-End-Testautomatisierung
 
-## 📊 GitHub Stats
+Für den Demo-Webshop habe ich Produktsuche, Warenkorb und Checkout mit **Python, Selenium und pytest** automatisiert. Die Tests sind nach dem **Page Object Model** aufgebaut. Im Repository liegen außerdem der Testplan, die Testfälle und der Bericht zur Testdurchführung.
 
-![Otto's GitHub stats](https://github-readme-stats.vercel.app/api?username=otto-re&show_icons=true&theme=radical)
+[Projekt auf GitHub ansehen](https://github.com/Otto-re/selenium_pytest_projekt)
 
----
+## Weiterbildung und Zertifikate
 
-*Let’s build reliable software.*
+- **Masterschool – Software Engineering, Spezialisierung QA Engineering** · Abschluss 12/2025
+- **ISTQB Certified Tester Foundation Level (CTFL)**
+- **Professional Scrum Master I (PSM I)**
